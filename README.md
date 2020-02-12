@@ -1,4 +1,4 @@
-# Electromechanical-Systems-Design-Wireless-Phone-Charging-Table-Code
+# Electromechanical-Systems-Design-Wireless-Phone-Charging-Table
 
 - Prototyped, designed and tested a wireless charging table that could charge a phone or a wireless charging compatible device placed at any position or orientation on the surface
 - Utilized Computer Vision to detect the placement of a device from under the table with a translucent surface, and a gantry system to move the wireless charger to the appropriate position
