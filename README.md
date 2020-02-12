@@ -7,4 +7,4 @@ See project Wireless Phone Charging Table - Electromechanical Systems - Design C
 
 Project Report: https://drive.google.com/file/d/1EHPkpF_x8Timtnq5dmtAFHiEfvF58Btm/view?usp=sharing
 
-** Code for OpenCV located at the end of the report.
+** Code for OpenCV located at the end of the report (Pages 66-75) 
